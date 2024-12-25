@@ -27,3 +27,7 @@ Despite recognizing a system of interdependent opposites as governing existence,
 - **Why does existence operate in this manner?**
 
 These inquiries, known as the "prime mover" dilemma, represent mysteries that are likely to persist as unknowable aspects of our understanding of the Universe. The limitations of sentient understanding and the vastness of the unknown are evident in the face of these questions, which defy definitive answers.
+
+We can use Gödel's incompleteness theorems to explain and conceptualize the impossibility of finding a complete set of axioms and one such systems cannot demonstrate it's own consistency.
+
+ In many fields of science there always a limit to which the formula and model stands before neededing a new one. 
